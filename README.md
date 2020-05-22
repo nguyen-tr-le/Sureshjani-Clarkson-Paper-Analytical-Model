@@ -1,1 +1,1 @@
-# Sureshjani-Clarkson-Paper-Analytical-Model
+# SureshjaniClarkson-Paper-AnalyticalModel
